@@ -1,10 +1,10 @@
 {
-  "name": "@rapid-platform/use-composed-class-name",
-  "version": "1.1.0",
+  "name": "@rapid-platform/use-css-variables",
+  "version": "1.0.0",
   "main": "./esm/index.js",
   "license": "MIT",
-  "author": "Tyler Watson <tyler@rapidplatform.com.au>",
-  "repository": "https://github.com/rapid-platform/use-composed-class-name.git",
+  "author": "Alex Litzow <alex.litzow@rapidplatform.com.au>",
+  "repository": "https://github.com/rapid-platform/use-css-variables.git",
   "scripts": {
     "prepublish": "yarn build",
     "build": "tsc"
